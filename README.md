@@ -30,8 +30,6 @@
 
 - Removed </> for image tags
 
-- Changed some classes to ID's to help optimize priority
-
 - Changed <h2> tag to <h3>tag in the footer
 
 - Removed padding in header to better fit the screen.
